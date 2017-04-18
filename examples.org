@@ -45,6 +45,10 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
+* [[./examples/2016.pdf][June 2016 Paper]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
 * [[./index.html][Return to homepage]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
