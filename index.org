@@ -8,12 +8,12 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 
 #+TITLE: GCSE Systems & Control Theory
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Brown and C Delport
 #+OPTIONS: toc:nil f:nil author:nil num:nil creator:nil timestamp:nil 
 
 #+BEGIN_HTML
 <div class=ribbon>
-<a href="https://github.com/stsb11/gcse_theory">Fork me on GitHub</a>
+<a href="https://github.com/stcd11/gcse_theory">Fork me on GitHub</a>
 </div>
 <center>
 <br>
@@ -23,7 +23,7 @@
 * [[file:1.html][Lesson 01 - Basics]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
-:END:
+:END:      
 * [[file:2.html][Lesson 02 - Materials]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
